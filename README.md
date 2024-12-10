@@ -1,3 +1,8 @@
+
+
+https://nightly.link/santi-nue/LADB/workflows/main/main/app-release-unsigned.zip
+
+
 # Ladb 
 
 A local ADB shell for Android!
